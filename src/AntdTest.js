@@ -12,7 +12,7 @@ class AntApp extends Component {
         <div className ="App">
             <Button type="primary">Primary</Button><br/><br/>
             <Button>Default</Button><br/><br/>
-            <Button type="dashed">Dashed</Button><br/><br/>
+            <Button type="dashed">Dashed点</Button><br/><br/>
             <Button type="danger">Danger</Button>
         </div>
       );
